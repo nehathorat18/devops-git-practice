@@ -19,4 +19,6 @@
 1. git add <filename> or git add . 
 
 
+####Track file
+1. git commit -m "commit-message"
 
