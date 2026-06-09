@@ -15,4 +15,8 @@
 1. git status
 2. git log
 
+####Stage file
+1. git add <filename> or git add . 
+
+
 
